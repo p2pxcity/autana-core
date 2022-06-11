@@ -62,6 +62,7 @@ It is maintained by:
 
  * Nick O'Leary [@knolleary](http://twitter.com/knolleary)
  * Dave Conway-Jones [@ceejay](http://twitter.com/ceejay)
+ * Gilbert Gonzalez [@ggsotillo](http://twitter.com/ggsotillo)
  * And many others...
 
 
